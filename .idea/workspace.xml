@@ -21,17 +21,25 @@
       <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/practice/NutritionFacts$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/practice/NutritionFacts$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/practice/NutritionFacts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/practice/TryWithResourcesApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/com/practice/TryWithResourcesPractice.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/com/practice/NutritionFactsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/com/practice/TryWithResourcesApplicationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/com/practice/TryWithResourcesPracticeTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/resources/firstline.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/resources/in.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/test/resources/out.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/Application.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/NutritionFacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/TryWithResourcesApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/practice/TryWithResourcesPractice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/practice/ApplicationTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/practice/NutritionFactsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/practice/TryWithResourcesApplicationTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/practice/TryWithResourcesPracticeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/firstline.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/in.txt" afterDir="false" />
@@ -61,25 +69,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="11" />
           <entry key="gradle" value="1" />
-          <entry key="java" value="943" />
+          <entry key="java" value="945" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="943" />
+          <entry key="JAVA" value="945" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -89,7 +99,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/NutritionFacts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="-57">
               <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <element signature="e#1160#1161#0" expanded="true" />
@@ -111,11 +121,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/ApplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/NutritionFactsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#530#531#0" expanded="true" />
@@ -537,7 +565,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548393409305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548393416722" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -607,9 +635,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NutritionFactsTest_nutritionFactsReturnsNutritionFactsObject - 2019.01.24 at 22h 52m 05s.xml">
-      <configuration name="NutritionFactsTest.nutritionFactsReturnsNutritionFactsObject" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NutritionFactsTest_nutritionFactsReturnsNutritionFactsObject - 2019.01.24 at 22h 53m 47s.xml">
       <configuration name="NutritionFactsTest.nutritionFactsReturnsNutritionFactsObject" configurationId="JUnit" />
     </history-entry>
@@ -637,10 +662,12 @@
     <history-entry file="NutritionFactsTest_nutritionFactsReturnsNutritionFactsObject - 2019.01.24 at 23h 10m 50s.xml">
       <configuration name="NutritionFactsTest.nutritionFactsReturnsNutritionFactsObject" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NutritionFactsTest_nutritionFactsReturnsNutritionFactsObject - 2019.01.24 at 23h 17m 00s.xml">
+      <configuration name="NutritionFactsTest.nutritionFactsReturnsNutritionFactsObject" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -650,7 +677,7 @@
       <window_info id="Designer" order="5" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -658,7 +685,7 @@
       <window_info anchor="bottom" id="Build" order="5" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3299363" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -685,20 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/TryWithResourcesApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/TryWithResourcesApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/TryWithResourcesPracticeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -716,9 +729,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/NutritionFactsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/NutritionFacts.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="-57">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <element signature="e#1160#1161#0" expanded="true" />
@@ -739,15 +764,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/NutritionFactsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/practice/ApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
